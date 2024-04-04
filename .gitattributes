@@ -3,3 +3,4 @@
 large_files/* filter=lfs diff=lfs merge=lfs -text
 *.pkl filter=lfs diff=lfs merge=lfs -text
 /Users/aidanmurphy/Library/CloudStorage/OneDrive-Personal/GitHub/DIDA-425/large_files/425/[[:space:]]models/transformer/model.safetensors filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
