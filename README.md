@@ -1,7 +1,7 @@
 # FAKE NEWS DETECTOR
 
 ## Dataset: 
-The data is downloaded from Kaggle at https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection/data <br /> 
+The data is downloaded from Kaggle at https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection/data and compressed as `fake-news-detection.zip`, containing 2 files: <br /> 
 `true.csv`: real news data<br /> 
 `fake.csv`: fake news data
 
