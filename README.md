@@ -20,3 +20,4 @@ Models used in the training and testing process: <br/>
 * Naive Bayes
 
 ## Results
+The most potential model for our detector is Transformers with a training accuracy of 99.577%, followed by MLP with 99.22%, SVM with 98.57% and Naive Bayes with 94.35%. Even with a high accuracy, Transformers required a big amount of time to train the data. It’s also consuming more training time for MLP than SVM and Naive Bayes. Although SVM was only working on identifying the word patterns, it did a great job producing a high accuracy in a short amount of time, making it the most potential model among the other ones.
