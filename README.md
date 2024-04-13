@@ -1,4 +1,5 @@
 # FAKE NEWS DETECTOR
+Anna Nguyen, Aiesha Ayub, Aidan Murphy, Jialene Westcott
 
 ## Dataset: 
 The data is downloaded from Kaggle at https://www.kaggle.com/datasets/bhavikjikadara/fake-news-detection/data and compressed as `fake-news-detection.zip`, containing 2 files: <br /> 
